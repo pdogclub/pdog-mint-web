@@ -1,18 +1,18 @@
 {
   "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "SCAN_LINK": "https://explorer.popcateum.org/address/0xf76DbAFf554123c3e89f23E935E81151625b41Ec/2231075?network=Popcateum",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Popcateum",
+    "SYMBOL": "POP",
+    "ID": 1213
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "NFT_NAME": "PopDog Cards",
+  "SYMBOL": "CARD",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 99000000000000000000,
+  "DISPLAY_COST": 99,
+  "GAS_LIMIT": 280000,
+  "MARKETPLACE": "당근마켓",
+  "MARKETPLACE_LINK": "https://www.daangn.com/",
   "SHOW_BACKGROUND": true
 }
